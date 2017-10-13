@@ -15,6 +15,7 @@ and open the template in the editor.
         echo 'AAA';
         echo 'bbb';
         echo 'ccc';
+        echo 'eee';
         ?>
     </body>
 </html>
